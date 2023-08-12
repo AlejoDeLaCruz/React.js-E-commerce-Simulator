@@ -5,8 +5,7 @@ El proyecto fue creado con [Create React App](https://github.com/facebook/create
 
 ## Descripcion
 
-Mi nombre es Alejo de la Cruz y estoy en plena formacion de mis conocimientos como programador. Para esto estoy haciendo el curso de React Js en la plataforma CoderHouse y este es mi proyecto final.
-En el mismo hice una aplicacion E-commerce, de venta de instrumentos musicales, yo mismo soy músico por ende me pareció un tema muy atractivo y adecuado para mi E-commerce.
+My name is Alejo de la Cruz, this is a React.js project. It is an E-commerce simulator
 
 
 ## Tecnologías usadas
@@ -42,5 +41,5 @@ El último paso sería corroborar si se descargó correctamente y para eso abrim
 
 Link de la pagina en Vercel:
 
-https://alejo-de-la-cruz-coder-house-proyecto-final-react-r9ih7wba1.vercel.app/
+
 
