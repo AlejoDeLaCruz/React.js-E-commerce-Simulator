@@ -1,0 +1,68 @@
+.info-container {
+  position: relative;
+  width: 100%;
+  height: 230vh;
+  overflow: hidden;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 80px;
+    color: black;
+    padding: 0;
+}
+
+.containers{
+  margin: 0;
+}
+
+
+
+.imagenRandom{
+  max-width: 50%; 
+  border-radius: 8px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1); 
+  transition: transform 0.3s ease-in-out; 
+  margin-left:5rem;
+  margin-top: 11.5rem;
+}
+
+.imagenRandom:hover {
+  transform: scale(1.009); /* Aumenta ligeramente el tamaño al pasar el cursor sobre la imagen */
+}
+
+.text-containers {
+  padding: 20px;
+  font-size: 2rem;
+  display: flex;
+}
+
+.texto-random{
+  margin-top: 13rem;
+  margin-left: 5rem;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.texto-random.appear {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.imagenRandom2{
+  max-width: 50%; 
+  border-radius: 8px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1); 
+  transition: transform 0.3s ease-in-out; 
+  margin-left:5rem;
+  margin-top: 11.5rem;
+}
+
+.imagenRandom2:hover {
+  transform: scale(1.009); /* Aumenta ligeramente el tamaño al pasar el cursor sobre la imagen */
+}

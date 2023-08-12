@@ -1,0 +1,58 @@
+.home-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+.video-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1000px;
+    object-fit: cover;
+    z-index: -1;
+}
+  
+.link-a-productos{
+  text-decoration: none;
+  font-size: 2rem;
+  color: white;
+  padding-left: 43.3%;
+}
+
+.link-a-productos:hover{
+  color: grey;
+}
+
+
+
+.welcome-text {
+  position: relative;
+  z-index: 1;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-top: 29vh; /* Ajusta esto según tu diseño */
+  font-size: 10rem;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.welcome-text.appear {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.link-a-productos{
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.link-a-productos.appear {
+  opacity: 1;
+  transform: translateY(0);
+}

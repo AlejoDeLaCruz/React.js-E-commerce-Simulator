@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f2c959a.css",
+    "main.js": "/static/js/main.7aaf4c7d.js",
+    "static/media/LesPaul.jpg": "/static/media/LesPaul.b3912eb022bbd1a4dfcf.jpg",
+    "static/media/ampli.jpg": "/static/media/ampli.6bbb333ac8115d870837.jpg",
+    "static/media/10037.jpg": "/static/media/10037.3e577141c7ac26699d8f.jpg",
+    "static/media/ibanez.jpg": "/static/media/ibanez.3f01d85b99b033b3f8b4.jpg",
+    "index.html": "/index.html",
+    "main.1f2c959a.css.map": "/static/css/main.1f2c959a.css.map",
+    "main.7aaf4c7d.js.map": "/static/js/main.7aaf4c7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2c959a.css",
+    "static/js/main.7aaf4c7d.js"
+  ]
+}
