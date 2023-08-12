@@ -38,8 +38,9 @@ Presionamos Enter y de esa forma se procede a descargar tu proyecto en la carpet
 El último paso sería corroborar si se descargó correctamente y para eso abrimos el Explorador de Windows (WIN + E), para dirigirnos a la carpeta que elegiste y listo.
 
 ## Demo 
-
 Link de la pagina en Vercel:
+
+https://react-js-e-commerce-simulator-kdy4ylotp-alejodelacruz.vercel.app/
 
 
 
